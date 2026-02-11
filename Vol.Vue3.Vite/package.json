@@ -18,7 +18,7 @@
     "@amap/amap-jsapi-loader": "^1.0.1",
     "@microsoft/signalr": "^7.0.3",
     "ali-oss": "^6.17.1",
-    "axios": "^1.8.2",
+    "axios": "^1.13.5",
     "core-js": "^3.29.0",
     "echarts": "^5.4.1",
     "element-plus": "^2.2.32",
