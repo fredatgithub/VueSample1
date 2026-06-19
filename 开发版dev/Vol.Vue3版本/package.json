@@ -25,7 +25,7 @@
     "wangeditor": "^4.7.15"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.16",
+    "@babel/core": "^7.29.6",
     "@babel/eslint-parser": "^7.12.16",
     "@babel/plugin-transform-react-jsx": "^7.23.4",
     "@vue/babel-plugin-jsx": "^1.2.1",
