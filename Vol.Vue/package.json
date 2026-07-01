@@ -16,7 +16,7 @@
   "dependencies": {
     "axios": "^1.17.0",
     "babel-polyfill": "^6.26.0",
-    "echarts": "^5.5.1",
+    "echarts": "^6.1.0",
     "element-ui": "^2.14.1",
     "gemini-scrollbar": "^1.5.3",
     "iview": "^3.2.2",
